@@ -1,0 +1,29 @@
+{
+  "students": [
+    {
+      "id": "2",
+      "name": "hira thakur",
+      "phone": "9805764533"
+    },
+    {
+      "id": "3",
+      "name": "jira",
+      "phone": "9805764556"
+    },
+    {
+      "id": "4",
+      "name": "indu",
+      "phone": "985674657"
+    },
+    {
+      "id": "5",
+      "name": "yuri",
+      "phone": "98575467456"
+    },
+    {
+      "id": "57",
+      "name": "ellena",
+      "phone": "986754646"
+    }
+  ]
+}
